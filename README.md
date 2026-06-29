@@ -15,42 +15,14 @@ This project analyzes 500 real-world data analyst job postings in Berlin to help
 
 ## 🛠️ Technologies Used
 
-|
- Tool 
-|
- Purpose 
-|
-|
-------
-|
----------
-|
-|
- Python 
-|
- Data analysis 
-|
-|
- Pandas 
-|
- Data manipulation 
-|
-|
- Matplotlib & Seaborn 
-|
- Visualization 
-|
-|
- Scikit-learn 
-|
- Salary prediction (ML) 
-|
-|
- Google Gemini API 
-|
- AI-powered job matching 
-|
-
+| Tool | Purpose |
+|------|---------|
+| Python | Data analysis |
+| Pandas | Data cleaning and manipulation |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical visualization |
+| Scikit-learn | Salary prediction model |
+| Google Gemini API | AI-powered job matching prototype |
 ## 📊 Key Findings
 - **Junior salary:** ~40,000 EUR/year (~3,500 EUR/month)
 - **Top skill:** Statistics, followed by Python and SQL
